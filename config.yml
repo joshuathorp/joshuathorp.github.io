@@ -67,12 +67,10 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:jrthorp@umich.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=XvlxqvkAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/joshuathorp
         - name: X
           url: https://X.com/JoshuaThorp
 
