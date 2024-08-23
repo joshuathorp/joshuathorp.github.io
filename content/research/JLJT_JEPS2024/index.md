@@ -13,7 +13,7 @@ cover:
     alt: "Figure from paper"
     relative: false
 editPost:
-    URL: "https:"osf.io/m69bz/""
+    URL: "https://osf.io/m69bz/"
     Text: "Journal of Experimental Political Science"
 
 ---
