@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Body Politic: Disability and Political Cohesion (Dissertation Project)"
 description: A study of disability as a political identity in the United States
 author: Joshua Thorp
