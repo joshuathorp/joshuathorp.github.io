@@ -1,5 +1,5 @@
 ---
-title: "Responsibility for impairment shapes the perceived deservingness of welfare claimants with disabilities" 
+title: "Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Claimants with Disabilities" 
 date: 2024-03-26
 lastmod: 2024-08-23
 tags: ["disability", "ethnicity", "survey experiment", "welfare"]
@@ -11,8 +11,8 @@ cover:
     alt: "Figure 1 from paper"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https://doi.org/10.1111/pops.12978"
+    Text: "Political Psychology"
 ---
 
 ---
