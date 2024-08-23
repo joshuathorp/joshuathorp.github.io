@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Body Politic: Disability and Political Cohesion (Dissertation Project)"
-description: A study of disability as a political identity in the United States
+url: /content/dissertation
+title: "Body Politic: Disability and Political Cohesion"
+description: My dissertation examines the role of disability in shaping political identity, public opinion, and behavior among Americans with disabilities. 
+summary: Dissertation Project
 author: Joshua R. Thorp
 cover:
     image: "Bob-Kafka-Georgia.jpg"
