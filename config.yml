@@ -70,8 +70,7 @@ params:
               url: /JTCV_Aug2024.pdf
             - name: Job-Market Paper
               url: jmp.pdf
-            - name: Papers
-              url: /papers/
+
     socialIcons:
         - name: CV
           url: JTCV_August2024.pdf
