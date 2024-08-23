@@ -22,7 +22,7 @@ menu:
           weight: 3
 
 params:
-    description: "I am a PhD candidate in political science at the University of Michigan. I study public opinion and political psychology in the United States and other advanced democracies."
+    description: "PhD Candidate in political science at the University of Michigan"
     author: Joshua R. Thorp
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Joshua R. Thorp
-          subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​political behavior and political psychology"
+          subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​public opinion and political psychology. My dissertation examines the role of disability in shaping political identity in the United States. More information about my research and teaching is available at the buttons below."
           imageUrl: "JT.png"
           imageWidth: 180
           imageHeight: 180
