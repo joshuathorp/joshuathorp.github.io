@@ -21,7 +21,8 @@ summary: "This paper examines how responsibility for impairment shapes the perce
 ##### Download
 
 + [Paper](ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
-+ [Pre-Registration](ResponsibilityforImpairment_Registration.pdf)
++ [Pre-registration](ResponsibilityforImpairment_Registration.pdf)
++ [Online Appendix]()
   
 ---
 
@@ -30,9 +31,9 @@ When do people support government assistance for people with disabilities? Disab
 
 ---
 
-##### Figure 2: Dimensions of a sausage dog
+##### Figure X:  Main Effects by Treatment Condition
 
-![](paper2.png)
+![](figurex.png)
 
 ---
 
