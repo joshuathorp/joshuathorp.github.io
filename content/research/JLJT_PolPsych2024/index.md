@@ -33,7 +33,7 @@ When do people support government assistance for people with disabilities? Disab
 
 ##### Figure 1:  Main Effects by Treatment Condition
 
-[Figure 1](JLJT_PolPsych2024_Figure1.pdf)
+![](JLJT_PolPsych2024_Figure1.pdf)
 
 ---
 
