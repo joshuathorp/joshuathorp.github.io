@@ -1,7 +1,7 @@
 ---
 title: "Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment" 
 date: 2024-08-23
-url: /research/JLJT_JEPS2024
+url: /research/JLJT_JEPS2024/index.md
 aliases: 
     - /research/JLJT_JEPS2024
 tags: ["COVID-19","disability","ethnicity","political psychology"]
