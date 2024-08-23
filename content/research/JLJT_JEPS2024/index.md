@@ -1,23 +1,21 @@
 
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2012-06-01
-url: /paper/
-aliases: 
-    - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-author: ["Paper Author 1", "Paper Author 2"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "Paper summary for list page (less than 265 characters)"
+title: "Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Claimants with Disabilities" 
+date: 2024-03-26
+lastmod: 2024-08-23
+tags: ["disability", "ethnicity", "survey experiment", "welfare"]
+author: ["Joshua R. Thorp", "Jac Larner"]
+description: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance. Published in Political Psychology, 2024." 
+summary: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance." 
 cover:
-    image: "/paper_figure.png"
-    alt: "Figure from paper"
+    image: "JLJT_PolPsych2024_Figure1.png"
+    alt: "Figure 1 from paper"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
-
+    URL: "https://doi.org/10.1111/pops.12978"
+    Text: "Political Psychology"
 ---
+
 
 ---
 
