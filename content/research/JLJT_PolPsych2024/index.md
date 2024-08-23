@@ -48,9 +48,6 @@ Thorp, J., & Larner, J. (2024). Responsibility for impairment shapes the perceiv
   year={2024},
   publisher={Wiley Online Library}
 }
-
+```
 ---
 
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
