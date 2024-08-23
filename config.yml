@@ -52,9 +52,9 @@ params:
           enabled: true
           title: Joshua R. Thorp
           subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​public opinion, political psychology, and public policy. My dissertation examines the role of disability in shaping political identity in the United States. I am on the job market in 2024-25. More information about my research and teaching experience is available below."
-          imageUrl: "JT.png"
-          imageWidth: 180
-          imageHeight: 180
+          imageUrl: "jt_website.png"
+          imageWidth: 200
+          imageHeight: 200
           imageTitle: JT
           buttons:
             - name: Research
