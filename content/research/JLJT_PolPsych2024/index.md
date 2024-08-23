@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+title: "Responsibility for impairment shapes the perceived deservingness of welfare claimants with disabilities" 
+date: 2024-03-26
+lastmod: 2024-08-23
+tags: ["disability, "ethnicity", "survey experiment", "welfare"]
+author: ["Joshua R. Thorp", "Jac Larner"]
+description: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance. Published in Political Psychology, 2024." 
+summary: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance." 
 cover:
     image: "paper2.png"
     alt: "Dimensions of a sausage dog"
     relative: false
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    Text: "Political Psychology"
 
 ---
 
@@ -28,8 +28,7 @@ editPost:
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+When do people support government assistance for people with disabilities? Disability welfare programs account for large shares of national welfare budgets, but little is known about public attitudes toward disabled welfare claimants. Drawing on psychological research in stereotype content, we argue that attitudes toward welfare for people with dis- abilities are likely to be more conditional than previously acknowledged. In two nationally representative, preregis- tered survey experiments in Wales (N = 3393) and Scotland (N = 1707), we ask respondents to evaluate the deservingness of a fictitious disabled claimant to government assistance. We manipulate the claimant's outgroup status and the manner in which they acquired their impairment. We find that disabled claimants perceived as even somewhat re- sponsible for their impairments are considered substan- tially less deserving of government assistance than those perceived not responsible, even when their needs for assistance are identical. Contrary to expectations, we find relatively modest and inconsistent outgroup penalties in perceived deservingness. Finally, we find large hetero- geneous treatment effects among respondents holding to more authoritarian social values. These results challenge conventional wisdom regarding the universality of support for disability welfare and help explain why voters may not be inclined to punish politicians who propose cuts to programs for even stereotypically high-deserving groups
 ---
 
 ##### Figure 2: Dimensions of a sausage dog
