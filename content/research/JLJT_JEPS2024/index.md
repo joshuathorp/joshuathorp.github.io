@@ -4,7 +4,7 @@ date: 2024-08-23
 url: /research/JLJT_JEPS2024
 tags: ["COVID-19","disability","ethnicity","political psychology"]
 author: ["Jac Larner", "Joshua R. Thorp"]
-description: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
+description: "Forthcoming at the Journal of Experimental Political Science" 
 summary: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
 
 ---
