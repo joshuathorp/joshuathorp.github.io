@@ -23,6 +23,9 @@ menu:
         - name: CV
           url: /cv/
           weight: 4
+        - name: Papers
+          url: /papers/
+          weight: 5
 
 params:
     description: "PhD Candidate in political science at the University of Michigan"
