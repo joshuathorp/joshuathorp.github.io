@@ -1,9 +1,9 @@
 ---
 title: "Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment" 
 date: 2024-08-23
-url: "osf.io/m69bz/"
+url: /research/JLJT_JEPS2024
 aliases: 
-    - "osf.io/m69bz/"
+    - /research/JLJT_JEPS2024
 tags: ["COVID-19","disability","ethnicity","political psychology"]
 author: ["Jac Larner", "Joshua R. Thorp"]
 description: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
@@ -13,8 +13,8 @@ cover:
     alt: "Figure from paper"
     relative: false
 editPost:
-    URL: "https://doi.org/paper_doi"
-    Text: "Journal/Repository Name"
+    URL: "https:"osf.io/m69bz/""
+    Text: "Journal of Experimental Political Science"
 
 ---
 
