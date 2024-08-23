@@ -65,7 +65,7 @@ params:
               url: /teaching/
             - name: CV
               url: /JTCV_Aug2024.pdf
-            - name: Job-market paper
+            - name: Job-Market Paper
               url: jmp.pdf
     socialIcons:
         - name: CV
