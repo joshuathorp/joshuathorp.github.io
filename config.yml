@@ -12,16 +12,16 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: research/
+          url: /research/
           weight: 1 
         - name: Dissertation
-          url: dissertation/
+          url: /dissertation/
           weight: 2
         - name: Teaching
-          url: teaching/
+          url: /teaching/
           weight: 3
         - name: CV
-          url: cv/
+          url: /cv/
           weight: 4
 
 params:
@@ -58,13 +58,13 @@ params:
           imageTitle: JT
           buttons:
             - name: Research
-              url: research/
+              url: /research/
             - name: Dissertation
-              url: dissertation/
+              url: /dissertation/
             - name: Teaching
-              url: teaching/
+              url: /teaching/
             - name: CV
-              url: cv/
+              url: /cv/
     socialIcons:
         - name: CV
           url: JTCV_August2024.pdf
