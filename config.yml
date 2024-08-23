@@ -82,7 +82,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Joshua Rutherford Thorp"
+      text: "Joshua R. Thorp"
       icon: favicon.ico
       iconHeight: 18
 
