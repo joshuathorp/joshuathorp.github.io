@@ -50,8 +50,8 @@ params:
           title: Joshua R. Thorp
           subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​political behavior and political psychology"
           imageUrl: "JT_MCARD.jpg"
-          imageWidth: 170
-          imageHeight: 180
+          imageWidth: 150
+          imageHeight: 160
           imageTitle: JT
           buttons:
             - name: Research
@@ -73,6 +73,8 @@ params:
           url: https://github.com/joshuathorp
         - name: X
           url: https://X.com/JoshuaThorp
+        - name: bluesky
+          url: https://bsky.app/profile/joshuathorp.bsky.social
 
     assets:
         disableScrollBarStyle: true
