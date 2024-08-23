@@ -17,7 +17,7 @@ editPost:
 ##### Download
 
 + [Paper](ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
-+ [Pre-Registration](ResponsibilityforImpairment_Registration.pdf)
++ [Registration](ResponsibilityforImpairment_Registration.pdf)
   
 ----
 
