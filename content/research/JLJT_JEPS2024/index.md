@@ -1,13 +1,13 @@
 ---
-title: "Paper Title (less than 70 characters)" 
-date: 2012-06-01
+title: "Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment" 
+date: 2024-08-23
 url: /paper/
 aliases: 
     - /old_url.html
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-author: ["Paper Author 1", "Paper Author 2"]
-description: "Paper description for search engines (less than 155 characters)" 
-summary: "Paper summary for list page (less than 265 characters)"
+tags: ["COVID-19","disability","ethnicity","political psychology"]
+author: ["Jac Larner", "Joshua R. Thorp"]
+description: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
+summary: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
 cover:
     image: "/paper_figure.png"
     alt: "Figure from paper"
@@ -22,15 +22,15 @@ editPost:
 
 ##### Download:
 
-- [Paper](paper.pdf)
-- [Online appendix](appendix.pdf)
-- [Code and data](https://github.com/paper_repo)
+- [Paper](ACCEPTED_JLJT__Support_COVID_19_restrictions___Working_Paper_-3.pdf)
+- [Pre-registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 ---
 
 ##### Abstract:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This study explores the impact of vulnerability appeals during the COVID-19 pandemic using a nationally representative, pre-registered survey experiment (N=4,087) conducted in mid-2021. We explore whether providing citizens with information about the vulnerability of ethnic minority and disabled citizens to COVID-19 fosters empathy and increased support for behavioural restrictions. We observe minimal statistically significant or substantive effects, although the presence of subtle effects cannot be entirely ruled out. We identify some limited indications that individuals with disabilities exhibit increased support for restrictions when exposed to information about the vulnerability of disabled people to COVID-19, but these effects are inconsistent. Therefore, our findings provide limited evidence to confirm or rule out that using vulnerability appeals alone is effective for influencing public attitudes toward behavioural restrictions. The findings point toward avenues for future research, including a closer examination of heterogeneous responses to public health messaging among population subgroups.
+
 
 ---
 
