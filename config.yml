@@ -73,6 +73,8 @@ params:
           url: https://github.com/joshuathorp
         - name: X
           url: https://X.com/JoshuaThorp
+        - name: BlueSky
+          url: https://bsky.app/profile/joshuathorp.bsky.social
 
     assets:
         disableScrollBarStyle: true
