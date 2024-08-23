@@ -1,9 +1,9 @@
 ---
 title: "Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment" 
 date: 2024-08-23
-url: /paper/
+url: https://osf.io/m69bz/
 aliases: 
-    - /old_url.html
+    - https://osf.io/m69bz/
 tags: ["COVID-19","disability","ethnicity","political psychology"]
 author: ["Jac Larner", "Joshua R. Thorp"]
 description: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
@@ -22,7 +22,7 @@ editPost:
 
 ##### Download:
 
-- [Paper](ACCEPTED_JLJT__Support_COVID_19_restrictions___Working_Paper_-3.pdf)
+- [Paper](ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
 - [Pre-registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 ---
@@ -34,9 +34,9 @@ This study explores the impact of vulnerability appeals during the COVID-19 pand
 
 ---
 
-##### Figure X:  Figure title
+##### Figure 2:  Timing of Experiment during COVID-19 Pandemic
 
-![](figurex.png)
+![](JLJT_JEPS2024_Figure2.png)
 
 ---
 
