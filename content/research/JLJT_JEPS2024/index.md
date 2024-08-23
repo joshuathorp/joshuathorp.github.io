@@ -4,8 +4,11 @@ date: 2024-08-23
 url: /research/JLJT_JEPS2024
 tags: ["COVID-19","disability","ethnicity","political psychology"]
 author: ["Jac Larner", "Joshua R. Thorp"]
-description: "Forthcoming at the Journal of Experimental Political Science" 
+description: "This paper reports the results of a survey experiment aimed at increasing compliance with COVID-19 behavioral restrictions by appealing to the health vulnerability of people with disabilities and ethnic minorities" 
 summary: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
+editPost:
+    URL: "https://www.cambridge.org/core/journals/journal-of-experimental-political-science"
+    Text: "The Journal of Experimental Political Science"
 
 ---
 
@@ -14,7 +17,7 @@ summary: "This paper examines whether appeals to the vulnerability of minority g
 ##### Download:
 
 - [Paper](ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
-- [Pre-registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
+- [Pre-Registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 ----
 
