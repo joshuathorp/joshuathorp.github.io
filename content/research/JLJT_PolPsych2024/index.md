@@ -5,7 +5,7 @@ url: /content/research/JLJT_PolPsych2024
 tags: ["disability", "ethnicity", "survey experiment", "welfare"]
 author: ["Joshua R. Thorp", "Jac Larner"]
 description: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance. Published in Political Psychology, 2024." 
-summary: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance." 
+summary: "Open access at *Political Psychology*. This paper uses survey experiments embedded in the Welsh and Scottish Election Studies (WES/SES) to examine how responsibility for impairment and minority ethnicity shape attitudes toward welfare claimants with disabilities." 
 editPost:
     URL: "https://doi.org/10.1111/pops.12978"
     Text: "Political Psychology"
