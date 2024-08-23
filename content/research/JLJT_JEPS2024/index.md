@@ -17,7 +17,7 @@ editPost:
 ##### Download:
 
 - [Paper](ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
-- [Pre-Registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
+- [Registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 ----
 
