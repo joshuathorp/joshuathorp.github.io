@@ -23,7 +23,7 @@ menu:
 
 params:
     description: "I am a PhD candidate in political science at the University of Michigan. I study public opinion and political psychology in the United States and other advanced democracies."
-    author: Joshua Rutherford Thorp
+    author: Joshua R. Thorp
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -47,11 +47,11 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Joshua Rutherford Thorp
+          title: Joshua R. Thorp
           subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​political behavior and political psychology"
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageUrl: "JT_MCARD.jpeg"
+          imageWidth: 170
+          imageHeight: 180
           imageTitle: JT
           buttons:
             - name: Research
