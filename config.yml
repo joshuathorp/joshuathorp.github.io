@@ -73,7 +73,7 @@ params:
           url: https://github.com/joshuathorp
         - name: X
           url: https://X.com/JoshuaThorp
-        - name: bluesky
+        - name: Bluesky
           url: https://bsky.app/profile/joshuathorp.bsky.social
 
     assets:
