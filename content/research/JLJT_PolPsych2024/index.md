@@ -20,10 +20,9 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
++ [Paper](ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
 + [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk)
-
+  
 ---
 
 ##### Abstract
@@ -39,23 +38,19 @@ When do people support government assistance for people with disabilities? Disab
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+Thorp, J., & Larner, J. (2024). Responsibility for impairment shapes the perceived deservingness of welfare claimants with disabilities. Political Psychology, 00, 1–24.
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
+@article{thorp2024responsibility,
+  title={Responsibility for impairment shapes the perceived deservingness of welfare claimants with disabilities},
+  author={Thorp, Joshua and Larner, Jac},
+  journal={Political Psychology},
+  year={2024},
+  publisher={Wiley Online Library}
+}
 
 ---
 
 ##### Related material
 
 + [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
