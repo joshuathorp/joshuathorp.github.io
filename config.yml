@@ -37,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["research","dissertation","teaching","CV"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -49,9 +49,9 @@ params:
           enabled: true
           title: Joshua Rutherford Thorp
           subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​political behavior and political psychology"
-          imageUrl: "/JT_MCARD.jpg"
+          imageUrl: "picture.jpeg"
           imageWidth: 160
-          imageHeight: 150
+          imageHeight: 160
           imageTitle: JT
           buttons:
             - name: Research
