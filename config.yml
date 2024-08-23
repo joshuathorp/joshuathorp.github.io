@@ -50,7 +50,7 @@ params:
           title: Joshua R. Thorp
           subtitle: "I am a PhD candidate in political science at the University of Michigan, specializing in ​political behavior and political psychology"
           imageUrl: "JT_MCARD.jpg"
-          imageWidth: 150
+          imageWidth: 170
           imageHeight: 160
           imageTitle: JT
           buttons:
