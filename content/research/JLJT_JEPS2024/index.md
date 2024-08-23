@@ -1,44 +1,35 @@
 ---
 title: "Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment" 
 date: 2024-08-23
-url: /research/JLJT_JEPS2024/index.md
-aliases: 
-    - /research/JLJT_JEPS2024
+url: /research/JLJT_JEPS2024
 tags: ["COVID-19","disability","ethnicity","political psychology"]
 author: ["Jac Larner", "Joshua R. Thorp"]
 description: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
 summary: "This paper examines whether appeals to the vulnerability of minority groups were successful in encouraging compliance with COVID-19 behavioral restrictions" 
-cover:
-    image: "/paper_figure.png"
-    alt: "Figure from paper"
-    relative: false
-editPost:
-    URL: "https://osf.io/m69bz/"
-    Text: "Journal of Experimental Political Science"
 
 ---
 
----
+----
 
 ##### Download:
 
 - [Paper](ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
 - [Pre-registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
----
+----
 
 ##### Abstract:
 
 This study explores the impact of vulnerability appeals during the COVID-19 pandemic using a nationally representative, pre-registered survey experiment (N=4,087) conducted in mid-2021. We explore whether providing citizens with information about the vulnerability of ethnic minority and disabled citizens to COVID-19 fosters empathy and increased support for behavioural restrictions. We observe minimal statistically significant or substantive effects, although the presence of subtle effects cannot be entirely ruled out. We identify some limited indications that individuals with disabilities exhibit increased support for restrictions when exposed to information about the vulnerability of disabled people to COVID-19, but these effects are inconsistent. Therefore, our findings provide limited evidence to confirm or rule out that using vulnerability appeals alone is effective for influencing public attitudes toward behavioural restrictions. The findings point toward avenues for future research, including a closer examination of heterogeneous responses to public health messaging among population subgroups.
 
 
----
+----
 
 ##### Figure 2:  Timing of Experiment during COVID-19 Pandemic
 
 ![](JLJT_JEPS2024_Figure2.png)
 
----
+----
 
 ##### Citation
 
