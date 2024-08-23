@@ -7,7 +7,7 @@ author: ["Joshua R. Thorp", "Jac Larner"]
 description: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance. Published in Political Psychology, 2024." 
 summary: "This paper examines how responsibility for impairment shapes the perceived deservingness of disabled welfare claimants to government assistance." 
 cover:
-    image: "JLJT_PolPsych2024_Figure1.pdf"
+    image: "JLJT_PolPsych2024_Figure1.png"
     alt: "Figure 1 from paper"
     relative: false
 editPost:
@@ -32,7 +32,7 @@ When do people support government assistance for people with disabilities? Disab
 
 ##### Figure 1:  Main Effects by Treatment Condition
 
-![](JLJT_PolPsych2024_Figure1.pdf)
+![](JLJT_PolPsych2024_Figure1.png)
 
 ---
 
@@ -49,5 +49,3 @@ Thorp, J., & Larner, J. (2024). Responsibility for impairment shapes the perceiv
   publisher={Wiley Online Library}
 }
 ```
----
-
