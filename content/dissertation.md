@@ -13,7 +13,7 @@ cover:
 
 ----
 
-#### Writing Samples and Supplementary Materials
+#### Papers and Supplementary Materials
 
 + [Job Market Paper] 
 + [Secondary Writing Sample]
