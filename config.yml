@@ -94,7 +94,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Joshua R. Thorp"
-      icon: favicon.ico
+      icon: michigan.ico
       iconHeight: 18
 
 markup:
