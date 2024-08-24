@@ -18,6 +18,7 @@ cover:
 + [Job Market Paper] 
 + [Secondary Writing Sample]
 + [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
++ [Registration](https://osf.io/4qfks/)
 
 ----
 
