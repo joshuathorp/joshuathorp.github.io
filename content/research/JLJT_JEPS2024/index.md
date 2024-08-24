@@ -30,7 +30,7 @@ This study explores the impact of vulnerability appeals during the COVID-19 pand
 
 ##### Figure 2:  Timing of Experiment during COVID-19 Pandemic
 
-![](JLJT_JEPS2024_Figure2.png)
+![](JEPS2024_Figure2.png)
 
 ----
 
