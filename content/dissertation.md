@@ -2,10 +2,12 @@
 title: "Dissertation"
 description: "Body Politic: Disability and Political Cohesion"
 image: "/Bob-Kafka-Georgia.jpg"
-
+cover:
+    image: "/Bob-Kafka-Georgia.jpg"
+    alt: "DRM Protesters"
+    relative: false
+    
 --- 
-
-# Dissertation Project
 
 ## Body Politic: Disability and Political Cohesion
 
