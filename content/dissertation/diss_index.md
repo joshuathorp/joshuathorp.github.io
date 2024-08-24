@@ -17,6 +17,6 @@ Disability is an embodied characteristic and a complex social category with clea
 
 #### Disability Rights Protesters in Georgia. Photography by Tom Olin.
 
-[](Bob-Kafka-Georgia.jpg)
+![](Bob-Kafka-Georgia.jpg)
 
 ----
