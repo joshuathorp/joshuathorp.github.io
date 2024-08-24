@@ -6,4 +6,4 @@ url: /cv
 
 #### Downloads
 
-+ [CV](/JTCV_August2024.pdf)
++ [CV](JTCV_August2024.pdf)
