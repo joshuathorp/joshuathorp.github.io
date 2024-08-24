@@ -1,5 +1,5 @@
 # Dissertation Project
-author: Joshua R. Thorp
+
 #### Body Politic: Disability and Political Cohesion
 The Centers for Disease Control and Prevention (CDC) estimates that between a fifth and a quarter of Americans lives with some form of functional disability. Disability is an embodied characteristic and a complex social category with clear links to politics. Nevertheless, political scientists have only a superficial understanding of how disability shapes political behavior. In particular, whereas some work considers the impact of disability on political participation, almost no empirical work has examined the implications of disability for political *psychology*. My dissertation addresses this gap by examining whether and to what extent disability shapes political identity and cohesion among disabled Americans.  
 
