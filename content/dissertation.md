@@ -1,5 +1,5 @@
 ---
-title: "Dissertation"
+title: "Dissertation Project"
 description: "Body Politic: Disability and Political Cohesion"
 image: "/Bob-Kafka-Georgia.jpg"
 cover:
@@ -32,6 +32,6 @@ My dissertation project addresses this question using new theory and data from t
 
 #### Disability Rights Protesters in Georgia. Photography by Tom Olin.
 
-![](Bob-Kafka-Georgia.jpg)
+![Protesters](drm_protest.jpeg)
 
 ----
