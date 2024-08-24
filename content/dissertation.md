@@ -1,5 +1,6 @@
 ---
 title: "Dissertation Project"
+url: /dissertation
 description: "Body Politic: Disability and Political Cohesion"
 image: "/Bob-Kafka-Georgia.jpg"
 cover:
