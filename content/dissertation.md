@@ -6,7 +6,7 @@ image: "/Bob-Kafka-Georgia.jpg"
 cover:
     image: "/Bob-Kafka-Georgia.jpg"
     alt: "DRM Protesters"
-    relative: false
+    relative: "/content/Bob-Kafka_Georgia.jpg"
     
 --- 
 
