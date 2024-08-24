@@ -6,8 +6,7 @@ image: "/Bob-Kafka-Georgia.jpg"
 cover:
     image: "/Bob-Kafka-Georgia.jpg"
     alt: "DRM Protesters"
-    relative: "/content/Bob-Kafka_Georgia.jpg"
-    
+
 --- 
 
 ## Body Politic: Disability and Political Cohesion
@@ -33,6 +32,6 @@ My dissertation project addresses this question using new theory and data from t
 
 #### Disability Rights Protesters in Georgia. Photography by Tom Olin.
 
-![Protesters](drm_protest.jpeg)
+![Disability Rights Protesters](/Bob-Kafka-Georgia.jpg)
 
 ----
