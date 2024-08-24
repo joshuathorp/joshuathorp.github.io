@@ -73,7 +73,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: JTCV_August2024.pdf
+          url: /JTCV_August2024.pdf
         - name: Email
           url: mailto:jrthorp@umich.edu
         - name: Google Scholar
