@@ -51,9 +51,10 @@ params:
     profileMode:
           enabled: true
           title: <span style="color:#011F5B">Joshua R. Thorp</span>
-          subtitle: I am a PhD candidate in political science at the University of Michigan, specializing in ​public opinion, political psychology, and public policy. <span style="color:#011F5B"> I am on the political science job market in 2024-25 </span>. My dissertation project uses original surveys and experiments to examine the role of disability in shaping the identities of Americans with disabilities. More information about my doctoral research, including my job market paper, is available at my dissertation page.<br><br> 
+          subtitle: 
+              I am a PhD candidate in political science at the University of Michigan, specializing in ​public opinion, political psychology, and public policy. <span style="color:#011F5B"> I am on the political science job market in 2024-25 </span>. My dissertation project uses original surveys and experiments to examine the role of disability in shaping the identities of Americans with disabilities. More information about my doctoral research, including my job market paper, is available at my dissertation page.<br><br> 
           
-          In addition to my doctoral research, I have several ongoing projects examining public attitudes toward redistributive and social policy in advanced democracies. My research has been published at venues including *Political Psychology* and the *Journal of Experimental Political Science*. 
+              In addition to my doctoral research, I have several ongoing projects examining public attitudes toward redistributive and social policy in advanced democracies. My research has been published at venues including *Political Psychology* and the *Journal of Experimental Political Science*. 
           imageUrl: "IMG_7513.jpg"
           imageWidth: 180
           imageHeight: 180
