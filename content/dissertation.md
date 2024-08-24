@@ -1,3 +1,10 @@
+---
+title: "Dissertation"
+description: "Body Politic: Disability and Political Cohesion"
+image: "/Bob-Kafka-Georgia.jpg"
+
+--- 
+
 # Dissertation Project
 
 ## Body Politic: Disability and Political Cohesion
