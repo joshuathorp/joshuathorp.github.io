@@ -71,7 +71,7 @@ params:
             - name: CV
               url: /JTCV_Aug2024.pdf
             - name: Job-Market Paper
-              url: jmp.pdf
+              url: /BPP2_August2024.pdf
 
     socialIcons:
         - name: CV
