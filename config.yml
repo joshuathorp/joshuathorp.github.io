@@ -71,13 +71,13 @@ params:
             - name: CV
               url: /JTCV_Aug2024.pdf
             - name: Job-Market Paper
-              url: /BPP2_August2024.pdf
+              url: /BPP2_Sept2024.pdf
 
     socialIcons:
         - name: CV
           url: /JTCV_August2024.pdf
         - name: Email
-          url: mailto:jrthorp@umich.edu
+          url: /mailto:jrthorp@umich.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=XvlxqvkAAAAJ&hl=en
         - name: GitHub
