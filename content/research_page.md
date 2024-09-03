@@ -13,7 +13,7 @@ email: jrthorp@umich.edu
 *Political Psychology*, (2024), 00, 1–24.
 
 + [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
-+ [Registration](ResponsibilityforImpairment_Registration.pdf)
++ [Registration](/ResponsibilityforImpairment_Registration.pdf)
 
 <details>
   <summary>Project Summary</summary>
@@ -31,7 +31,7 @@ email: jrthorp@umich.edu
 *Forthcoming*, Journal of Experimental Political Science
 
 + [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
-+ [Registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
++ [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 <details>
   <summary>Project Summary</summary>
