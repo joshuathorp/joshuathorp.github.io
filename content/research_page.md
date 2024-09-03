@@ -25,7 +25,7 @@ email: jrthorp@umich.edu
 
 ##### Figure 1:  Main Effects by Treatment Condition
 
-![](JLJT_PolPsych2024_Figure1.png)
+![](/JLJT_PolPsych2024_Figure1.png)
 
 </details>
 
