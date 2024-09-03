@@ -12,7 +12,7 @@ email: jrthorp@umich.edu
 **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities.** 
 *Political Psychology*, (2024), 00, 1–24.
 
-+ [Paper](ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
++ [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
 + [Registration](ResponsibilityforImpairment_Registration.pdf)
 
 <details>
@@ -30,7 +30,7 @@ email: jrthorp@umich.edu
 **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment.** 
 *Forthcoming*, Journal of Experimental Political Science
 
-+ [Paper](ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
++ [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
 + [Registration](JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 <details>
