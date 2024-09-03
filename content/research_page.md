@@ -2,10 +2,9 @@
 title: "Research"
 subtitle: "Publications, Working Papers, and Works in Progress"
 url: /research
-summary: 
 author: Joshua R. Thorp
-  email: jrthorp@umich.edu 
-  
+email: jrthorp@umich.edu 
+
 --- 
 
 ## Peer-Reviewed Publications
