@@ -15,7 +15,7 @@ cover:
 
 #### Papers and Supplementary Materials
 
-+ [Job Market Paper](/BPP2_August2024.pdf) 
++ [Job Market Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&dl=0) 
 + [Supplementary Materials](https://osf.io/4qfks/)
 + [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
   
