@@ -32,7 +32,7 @@ email: jrthorp@umich.edu
 
 ----
 
-**Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** (Dissertation Chapter)
+**Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** (Working Paper)
 + [Paper available upon request]
 + [Registration](https://osf.io/d96jb)
 <details>
