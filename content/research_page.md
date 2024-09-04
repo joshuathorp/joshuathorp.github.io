@@ -8,6 +8,8 @@ email: jrthorp@umich.edu
 
 --- 
 
+My research sits at the intersection of public opinion, political psychology, and public policy. I am particularly interested in how **political processes** - such as policy feedback, experiences of discrimination, or exposure to protest action - foster group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States - a group that has been largely overlooked in political behavior research. The second component of my research agenda focuses on the role of group stereotypes in shaping attitudes toward redistributive and social policies. Specifically, I examine how minority group stereotypes - particularly disability and ethnic group stereotypes - shape attitudes toward redistributive and social policy in the United State and other advanded democracies.
+
 ## Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
 **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)
@@ -58,7 +60,7 @@ With Jac Larner
 
 </details>
 
------
+----
 
 **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment.** 
 Forthcoming at *The Journal of Experimental Political Science*
