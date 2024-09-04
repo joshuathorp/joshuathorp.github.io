@@ -34,7 +34,7 @@ email: jrthorp@umich.edu
 
 ----
 
-## The Political Psychology of Redistribution in Advanced Democracies
+## Group Stereotypes, Kinship, and the Politics of Redistribution in Advanced Democracies
 
 **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities.** 
 *Political Psychology*, (2024), 00, 1–24.
@@ -72,7 +72,18 @@ email: jrthorp@umich.edu
 
 ----
 
-Deservingness Stereotypes and Attitudes Toward Redistribution in the United States (Working Paper)
+**Deservingness Stereotypes and Attitudes Toward Redistribution in the United States** (Working Paper)
+
++ [Pre-Analysis Plan](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
++ [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
+
+<details>
+  <summary>Project Summary</summary>
+  <p style="font-size: 0.9em;">  </p>
+
+
+</details>  
+
 
 ----
 
