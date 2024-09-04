@@ -60,8 +60,8 @@ With Jac Larner
 
 -----
 
-**Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment. (With Jac Larner)** 
-*Forthcoming*, Journal of Experimental Political Science
+**Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment.** 
+Forthcoming at *The Journal of Experimental Political Science*
 With Jac Larner
 
 + [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
