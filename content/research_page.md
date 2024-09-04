@@ -1,5 +1,6 @@
 ---
 title: "Research"
+subtitle: "Publications, Working Papers, and Works in Progress"
 description: "Publications, Working Papers, and Works in Progress"
 url: /research
 author: Joshua R. Thorp
@@ -72,15 +73,14 @@ email: jrthorp@umich.edu
 
 ----
 
-**Deservingness Stereotypes and Attitudes Toward Redistribution in the United States** (Working Paper)
+**Disability Stereotypes and Redistribution in the United States** (In Progress)
 
-+ [Pre-Analysis Plan](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
-+ [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
++ [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdf?rlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0)
++ [Registration](https://osf.io/e7r2q)
 
 <details>
   <summary>Project Summary</summary>
-  <p style="font-size: 0.9em;">  </p>
-
+  <p style="font-size: 0.9em;"> In multiple studies across time and in differing contexts, opposition to state welfare has been linked to beliefs on the demographic composition of welfare recipients. Particular, and almost exclusive, attention has been paid to the share of groups stereotyped as ’undeserving’, namely people from minority ethnic backgrounds and immigrants. In this paper, we test whether eliciting associations between welfare and disabled people - a group frequently stereotyped as highly deserving - increases support for welfare. Using a nationally representative survey experiment conducted in the United States, we employ random assignment to different treatments aimed at providing distinct signals regarding the proportion of welfare recipients who are disabled. Our analysis encompasses both attitudinal shifts and behavioral responses elicited by these treatments. </p>
 
 </details>  
 
