@@ -8,8 +8,11 @@ email: jrthorp@umich.edu
 
 --- 
 
-### Research Overview
+## Publications, Working Papers, and Works in Progress
 
+----
+
+#### Research Overview
 > My research agenda has two key components. The first component examines the role of **political processes** - such as policy feedback,  experiences of discrimination, or exposure to protest action - in promoting group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States. The second component of my research agenda focuses on the role of **stereotypes and social cognition** in shaping attitudes toward redistributive and social policies. I examine how minority group stereotypes shape attitudes toward redistributive and social policies in the United State and other advanded democracies.
 
 ----
