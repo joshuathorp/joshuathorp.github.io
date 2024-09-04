@@ -52,13 +52,13 @@ email: jrthorp@umich.edu
 
 <details>
   <summary>Project Summary</summary>
-  <p style="font-size: 0.9em;"> To what extent do public health threats promote political solidarity among members of vulnerable minority groups? People with disabilities (PWD) were at substantially elevated risk of severe illness and death throughout the COVID-19 pandemic. Yet, existing research has not considered how disability status shaped attitudes toward policy interventions designed to curb the spread of the virus (e.g. vaccines, social distancing, masking). Using data from two nationally representative YouGov surveys (N=2000) in the United States, I find that respondents with \textit{functional} disabilities are not more likely to be vaccinated or support virus-curbing measures than their non-disabled peers. By contrast, among respondents with disabilities, those who consider disability to be an important part of their social identity, and who report a sense of linked fate with PWD are more likely to be vaccinated and more likely to support preventative measures. </p>
+  <p style="font-size: 0.9em;"> To what extent do public health threats promote political solidarity among members of vulnerable minority groups? People with disabilities (PWD) were at substantially elevated risk of severe illness and death throughout the COVID-19 pandemic. Yet, existing research has not considered how disability status shaped attitudes toward policy interventions designed to curb the spread of the virus (e.g. vaccines, social distancing, masking). Using data from two nationally representative YouGov surveys (N=2000) in the United States, I find that respondents with *functional* disabilities are not more likely to be vaccinated or support virus-curbing measures than their non-disabled peers. By contrast, among respondents with disabilities, those who consider disability to be an important part of their social identity, and who report a sense of linked fate with PWD are more likely to be vaccinated and more likely to support preventative measures. </p>
 
 </details>
 
 ----
 
-## Group Stereotypes, Kinship, and the Politics of Redistribution in Advanced Democracies
+## Group Stereotypes and the Politics of Redistribution in Advanced Democracies
 
 **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities** 
 *Political Psychology*, (2024), 00, 1–24.
