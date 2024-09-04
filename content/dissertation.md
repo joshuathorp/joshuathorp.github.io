@@ -31,13 +31,6 @@ I test this theory using data from three original national surveys of American a
 
 ----
 
-#### JMP Figure 5: Interaction between Disability and Partisanship on Redistributive Policy Preferences
-
-![](/BPP2_pid_interactionsfs2_minimal.png)
-
-
-----
-
 #### Disability Rights Protesters in Georgia. Photography by Tom Olin.
 
 ![Disability Rights Protesters](/Bob-Kafka-Georgia.jpg)
