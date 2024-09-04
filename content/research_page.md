@@ -8,7 +8,7 @@ email: jrthorp@umich.edu
 
 --- 
 
-# Peer-Reviewed Publications
+## Peer-Reviewed Publications
 
 **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities.** 
 *Political Psychology*, (2024), 00, 1–24.
@@ -46,7 +46,7 @@ email: jrthorp@umich.edu
 
 ----
 
-# Working Papers
+## Working Papers
 
 **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)
 + [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0)
