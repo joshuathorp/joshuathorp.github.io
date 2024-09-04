@@ -47,6 +47,7 @@ My research agenda has two key components. The first component examines the role
 
 **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities** 
 *Political Psychology*, (2024), 00, 1–24.
+
 With Jac Larner
 
 + [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
@@ -66,6 +67,7 @@ With Jac Larner
 
 **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment.** 
 Forthcoming at *The Journal of Experimental Political Science*
+
 With Jac Larner
 
 + [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
@@ -84,6 +86,7 @@ With Jac Larner
 ----
 
 **Disability Stereotypes and Redistribution in the United States** (In Progress)
+
 With Jac Larner
 
 + [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdf?rlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0)
