@@ -4,7 +4,7 @@ subtitle: "Publications, Working Papers, and Works in Progress"
 description: "Publications, Working Papers, and Works in Progress"
 url: /research
 author: Joshua R. Thorp
-email: jrthorp@umich.edu 
+email: jrthorp@umich.edu
 
 --- 
 
