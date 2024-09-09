@@ -96,7 +96,7 @@ With Jac Larner
 
 ----
 
-**Disability Stereotypes and Redistribution in the United States** (In Progress)
+**Disability Stereotypes and Redistribution in the United States** (Data collected, paper in progress)
 
 With Jac Larner
 
@@ -107,6 +107,19 @@ With Jac Larner
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> In multiple studies across time and in differing contexts, opposition to state welfare has been linked to beliefs on the demographic composition of welfare recipients. Particular, and almost exclusive, attention has been paid to the share of groups stereotyped as ’undeserving’, namely people from minority ethnic backgrounds and immigrants. In this paper, we test whether eliciting associations between welfare and disabled people - a group frequently stereotyped as highly deserving - increases support for welfare. Using a nationally representative survey experiment conducted in the United States, we employ random assignment to different treatments aimed at providing distinct signals regarding the proportion of welfare recipients who are disabled. Our analysis encompasses both attitudinal shifts and behavioral responses elicited by these treatments. </p>
 
+</details>  
+
+
+----
+
+**Estimating the Causal Effect of Acquisition of Disability on Political Partisanship and Support for Redistribution in the United Kingdom** (Data collected, paper in Progress)
+
+With Jac Larner
+
+<details>
+  <summary>Abstract</summary>
+  <p style="font-size: 0.9em;"> Ageing populations across the developed world have resulted in larger shares of national populations spending more years of life with disabilities and chronic health conditions (Carpenter 2012). How does the acquisition of such conditions shape political behavior? This project utilizes original panel data collected as part of the British Election Study (BES) to estimate the causal effect of acquiring a disabling impairment on political partisanship and support for redistribution in the United Kingdom. In doing so, we contribute to ongoing debates regarding the role of disability and chronic health conditions in shaping political attitudes, and present novel evidence on the political consequences of ageing populations.
+    
 </details>  
 
 
