@@ -13,7 +13,7 @@ email: jrthorp@umich.edu
 ----
 
 #### Research Overview
-> I conduct research in public opinion, political psychology, and public policy. The first component of my research agenda examines the role of **political processes** - such as policy feedback,  experiences of discrimination, or exposure to protest action - in promoting group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States. The second component focuses on the role of **stereotypes and social cognition** in shaping attitudes toward redistributive and social policies in the United State and other advanded democracies.
+> I conduct research in public opinion, political psychology, and public policy. The first component of my research agenda examines the role of *political processes* - such as policy feedback,  experiences of discrimination, or exposure to protest action - in promoting group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States. The second component focuses on the role of *stereotypes and social cognition* in shaping attitudes toward redistributive and social policies in the United State and other advanded democracies.
 
 ----
 
@@ -94,23 +94,21 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 
 ----
 
-- **Disability Stereotypes and Redistribution in the United States** (Data collected, paper in progress)
-
-  + [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdf?rlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0)
-  + [Registration](https://osf.io/e7r2q)
+- **Disability Stereotypes and Redistribution in the United States** (with Jac Larner, *in progress*)
 
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> In multiple studies across time and in differing contexts, opposition to state welfare has been linked to beliefs on the demographic composition of welfare recipients. Particular, and almost exclusive, attention has been paid to the share of groups stereotyped as ’undeserving’, namely people from minority ethnic backgrounds and immigrants. In this paper, we test whether eliciting associations between welfare and disabled people - a group frequently stereotyped as highly deserving - increases support for welfare. Using a nationally representative survey experiment conducted in the United States, we employ random assignment to different treatments aimed at providing distinct signals regarding the proportion of welfare recipients who are disabled. Our analysis encompasses both attitudinal shifts and behavioral responses elicited by these treatments. </p>
 
   </details>  
+  
+  + [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0)
+  + [Registration](https://osf.io/e7r2q)
 
 
 ----
 
-- **Estimating the Causal Effect of Acquisition of Disability on Political Partisanship and Support for Redistribution in the United Kingdom** (Data collected, paper in Progress)
-
-  With Jac Larner
+- **Estimating the Causal Effect of Acquisition of Disability on Political Partisanship and Support for Redistribution in the United Kingdom** (with Jac Larner, *in progress*)
 
   <details>
   <summary>Abstract</summary>
