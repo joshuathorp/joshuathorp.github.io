@@ -19,10 +19,10 @@ email: jrthorp@umich.edu
 
 ## Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-**Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)
-+ [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0)
-+ [Supplementary Materials](https://osf.io/4qfks/)
-<details>
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)
+  + [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0)
+  + [Supplementary Materials](https://osf.io/4qfks/)
+  <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> How do social identities become politically salient? People with disabilities (PWD) are a diverse social minority with clear links to politics. However, little is known about how disability might shape political psychology. Conventional wisdom suggests that political cohesion in diverse social groups is a consequence of (1) elite mobilization, and/or (2) intragroup contact. I argue that this conventional wisdom is largely inapplicable to disabled Americans. However, disability may become politically salient via other social processes, including experiences of stigma and discrimination, and processes of policy feedback that link disability to redistributive benefits. I test this theory using data from two original national surveys and the 2024 ANES Pilot Study. I develop an original survey measure for identification with disability - the Disability ID scale - and examine the implications of this identity for political attitudes. I find that Disability ID is strongest among those with more severe and visible impairments, and among those who receive disability welfare and accommodations. Disability ID has important implications for politics, with those higher in Disability ID reporting more ideological liberalism, Democratic partisanship, and support for a range of redistributive policies. Finally, Disability ID is cross-cutting, with the redistributive preferences of conservatives and Republicans converging with those of liberals and Democrats at high levels of Disability ID. </p> 
 
