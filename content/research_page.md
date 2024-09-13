@@ -20,9 +20,7 @@ urlcolor: blue
 
 ## Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/)
-  
-  <details>
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> How do social identities become politically salient? People with disabilities (PWD) are a diverse social minority with clear links to politics. However, little is known about how disability might shape political psychology. Conventional wisdom suggests that political cohesion in diverse social groups is a consequence of (1) elite mobilization, and/or (2) intragroup contact. I argue that this conventional wisdom is largely inapplicable to disabled Americans. However, disability may become politically salient via other social processes, including experiences of stigma and discrimination, and processes of policy feedback that link disability to redistributive benefits. I test this theory using data from two original national surveys and the 2024 ANES Pilot Study. I develop an original survey measure for identification with disability - the Disability ID scale - and examine the implications of this identity for political attitudes. I find that Disability ID is strongest among those with more severe and visible impairments, and among those who receive disability welfare and accommodations. Disability ID has important implications for politics, with those higher in Disability ID reporting more ideological liberalism, Democratic partisanship, and support for a range of redistributive policies. Finally, Disability ID is cross-cutting, with the redistributive preferences of conservatives and Republicans converging with those of liberals and Democrats at high levels of Disability ID. </p> 
 
@@ -41,9 +39,11 @@ urlcolor: blue
   
   </details>
 
+
 ----
 
 - **Disability and Political Solidarity: The Case of the COVID-19 Pandemic** (In Progress)
+
 
   <details>
   <summary>Abstract</summary>
@@ -58,6 +58,7 @@ urlcolor: blue
 - **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities** 
 *Political Psychology*, (2024), 00, 1–24. (with Jac Larner) 
 [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf) [Registration](/ResponsibilityforImpairment_Registration.pdf)
+
 
   <details>
   <summary>Abstract</summary>
@@ -74,6 +75,7 @@ urlcolor: blue
 - **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment.** 
 Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)  [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf) [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
+
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;">This study explores the impact of vulnerability appeals during the COVID-19 pandemic using a nationally representative, pre-registered survey experiment (N=4,087) conducted in mid-2021. We explore whether providing citizens with information about the vulnerability of ethnic minority and disabled citizens to COVID-19 fosters empathy and increased support for behavioural restrictions. We observe minimal statistically significant or substantive effects, although the presence of subtle effects cannot be entirely ruled out. We identify some limited indications that individuals with disabilities exhibit increased support for restrictions when exposed to information about the vulnerability of disabled people to COVID-19, but these effects are inconsistent. Therefore, our findings provide limited evidence to confirm or rule out that using vulnerability appeals alone is effective for influencing public attitudes toward behavioural restrictions. The findings point toward avenues for future research, including a closer examination of heterogeneous responses to public health messaging among population subgroups. </p>
@@ -83,6 +85,7 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
   ![](/JLJT_JEPS2024_Figure2.png)
 
   </details>  
+
 
 ----
 
@@ -99,6 +102,7 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 ----
 
 - **Estimating the Causal Effect of Acquisition of Disability on Political Partisanship and Support for Redistribution in the United Kingdom** (with Jac Larner, *in progress*)
+
 
   <details>
   <summary>Abstract</summary>
