@@ -27,9 +27,10 @@ email: jrthorp@umich.edu
   ![](/BPP2_pid_interactionsfs2_minimal.png)
 
 </details>
-
+  
   + [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0)
   + [Supplementary Materials](https://osf.io/4qfks/)
+
 
 ----
 
