@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "PhD Candidate in political science at the University of Michigan"
+    description: "PhD Candidate in Political Science (American Politics) at the University of Michigan"
     author: Joshua R. Thorp
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
