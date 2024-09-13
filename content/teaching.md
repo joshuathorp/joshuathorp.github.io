@@ -18,14 +18,23 @@ urlcolor: blue
 
 ## Graduate Student Instructor
 
-- **The Politics of Civil Rights and Civil Liberties**, University of Michigan (Prof. Pamela Brandwein)
+- **PS319: The Politics of Civil Rights and Civil Liberties**, University of Michigan (Prof. Pamela Brandwein)
   + Fall 2018
   + Fall 2021
     
-- **Introduction to Chinese Politics**, University of Michigan (Prof. Mary Gallagher)
+- **PS339: Introduction to Chinese Politics**, University of Michigan (Prof. Mary Gallagher)
   + Winter 2021
     
-- **German Politics in Europe Since 1945**, University of Michigan (Prof. Andrei Markovits)
+- **PS489: German Politics in Europe Since 1945**, University of Michigan (Prof. Andrei Markovits)
   + Fall 2023
 
 ----
+
+## Grader
+
+- **PS486: Public Opinion, Voting Behavior and Pressure Groups**, University of Michigan (Prof. Vincent Hutchings)
+  + Fall 2020
+- **PS389: Courts, Judges, and Controversies**, University of Michigan (Prof. Deborah Beim)
+  + Fall 2020
+    
+---- 
