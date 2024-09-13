@@ -55,7 +55,7 @@ urlcolor: blue
 
 ----
 
-## Group Stereotypes and the Politics of Redistribution in Advanced Democracies
+## Stereotypes, Prejudice, and the Politics of Redistribution in Advanced Democracies
 
 - **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities** 
 *Political Psychology*, (2024), 00, 1–24. (with Jac Larner) 
