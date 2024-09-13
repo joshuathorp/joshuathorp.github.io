@@ -69,13 +69,13 @@ params:
             - name: Teaching
               url: /teaching/
             - name: CV
-              url: https://www.dropbox.com/scl/fi/brzxt5grjvtxe8qdimdlh/JoshuaThorp_CV_Sept24.pdf?rlkey=v37idquglx63hsiuptrt9b3vu&st=hmops126&dl=0
+              url: https://www.dropbox.com/scl/fi/w3x96fbx4vwocbgz56ii7/JTCV_Sept2024.pdf?rlkey=k9yod4nxmeyfy1ixmbd8oqi4o&st=sjwkvpr0&dl=0
             - name: Job-Market Paper
               url: /BPP2_Sept2024.pdf
 
     socialIcons:
         - name: CV
-          url: https://www.dropbox.com/scl/fi/brzxt5grjvtxe8qdimdlh/JoshuaThorp_CV_Sept24.pdf?rlkey=v37idquglx63hsiuptrt9b3vu&st=hmops126&dl=0
+          url: https://www.dropbox.com/scl/fi/w3x96fbx4vwocbgz56ii7/JTCV_Sept2024.pdf?rlkey=k9yod4nxmeyfy1ixmbd8oqi4o&st=sjwkvpr0&dl=0
         - name: Email
           url: /mailto:jrthorp@umich.edu
         - name: Google Scholar
