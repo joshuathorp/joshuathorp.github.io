@@ -8,6 +8,14 @@ urlcolor: blue
 
 --- 
 
+----
+
+#### Downloads
+  + [Draft Syllabus: Identity Politics](https://www.dropbox.com/scl/fi/gmv4ymhtt45jzktcq070y/DraftSyllabus_IdentityPolitics.pdf?rlkey=di89hblysdz7il9xm33n9ad9t&st=xdfgy8fx&dl=0)
+  + [Teaching Evaluations (Request Access)](https://www.dropbox.com/scl/fi/gmv4ymhtt45jzktcq070y/DraftSyllabus_IdentityPolitics.pdf?rlkey=di89hblysdz7il9xm33n9ad9t&st=xdfgy8fx&dl=0)
+    
+----
+
 ## Graduate Student Instructor
 
 - **The Politics of Civil Rights and Civil Liberties**, University of Michigan (Prof. Pamela Brandwein)
