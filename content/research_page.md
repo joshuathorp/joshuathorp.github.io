@@ -20,7 +20,7 @@ urlcolor: blue
 
 ## Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/)
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
 
   <details>
   <summary>Abstract</summary>
