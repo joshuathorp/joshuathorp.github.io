@@ -19,7 +19,7 @@ email: jrthorp@umich.edu
 
 ## Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/)
   
   <details>
   <summary>Abstract</summary>
@@ -28,24 +28,17 @@ email: jrthorp@umich.edu
   ![](/BPP2_pid_interactionsfs2_minimal.png)
 
   </details>
-  
-  + [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0)
-  + [Supplementary Materials](https://osf.io/4qfks/)
-
 
 ----
 
-- **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** (Working Paper)
+- **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** (Working Paper) [Paper available upon request] [Registration](https://osf.io/d96jb)
+
   
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> What drives support for protest action in diverse social groups, where group members may have different or competing political interests? This paper addresses this question by examining the attitudes of disabled Americans toward disruptive disability rights protests. While such protests are framed as advancing the interests of all disabled people - no matter their specific impairment - they frequently include policy demands that benefit only a subset of disabled people. Disability rights protests thus provide a novel context in which to examine the role of expressive (shared identity) vs. instrumental (personal benefit from policy change) motivations in shaping attitudes toward protest action. In a survey experiment (N=1016) of American adults with disabilities, I find that identification and a sense of linked fate with disabled people predict support for protest action and a willingness to participate, even when such protests are highly disruptive. By contrast, sharing the specific impairment of the protesters (mobility impairment) does not predict elevated support. More broadly, these findings provide novel empirical evidence of group consciousness among large shares of disabled Americans, and show that disabled people are mobilized by exposure to disability rights protests.</p>
   
   </details>
-  
-  + [Paper available upon request]
-  + [Registration](https://osf.io/d96jb)
-
 
 ----
 
@@ -65,7 +58,6 @@ email: jrthorp@umich.edu
 *Political Psychology*, (2024), 00, 1–24. (with Jac Larner) 
 [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf) [Registration](/ResponsibilityforImpairment_Registration.pdf)
 
-
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> When do people support government assistance for people with disabilities? Disability welfare programs account for large shares of national welfare budgets, but little is known about public attitudes toward disabled welfare claimants. Drawing on psychological research in stereotype content, we argue that attitudes toward welfare for people with dis- abilities are likely to be more conditional than     previously acknowledged. In two nationally representative, preregistered survey experiments in Wales (N = 3393) and Scotland (N = 1707), we ask respondents to evaluate the deservingness of a fictitious disabled claimant to government assistance. We manipulate the claimant's outgroup status and the manner in which they acquired their impairment. We find that disabled claimants perceived as even somewhat responsible for their impairments are considered substantially less deserving of government assistance than those perceived not responsible, even when their needs for assistance are identical. Contrary to expectations, we find relatively modest and inconsistent outgroup penalties in perceived deservingness. Finally, we find large heterogeneous treatment effects among respondents holding to more authoritarian social values. These results challenge conventional wisdom regarding the universality of support for disability welfare and help explain why voters may not be inclined to punish politicians who propose cuts to programs for even stereotypically high-deserving groups. </p>
@@ -75,14 +67,11 @@ email: jrthorp@umich.edu
   ![](/JLJT_PolPsych2024_Figure1.png)
 
   </details>
-  
-  + [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf)
-  + [Registration](/ResponsibilityforImpairment_Registration.pdf)
 
 ----
 
 - **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment.** 
-Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
+Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)  [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf) [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
   <details>
   <summary>Abstract</summary>
@@ -94,23 +83,17 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 
   </details>  
 
-  + [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf)
-  + [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
-
-
 ----
 
-- **Disability Stereotypes and Redistribution in the United States** (with Jac Larner, *in progress*)
+- **Disability Stereotypes and Redistribution in the United States** (with Jac Larner, *in progress*) [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0) [Registration](https://osf.io/e7r2q)
+
+
 
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> In multiple studies across time and in differing contexts, opposition to state welfare has been linked to beliefs on the demographic composition of welfare recipients. Particular, and almost exclusive, attention has been paid to the share of groups stereotyped as ’undeserving’, namely people from minority ethnic backgrounds and immigrants. In this paper, we test whether eliciting associations between welfare and disabled people - a group frequently stereotyped as highly deserving - increases support for welfare. Using a nationally representative survey experiment conducted in the United States, we employ random assignment to different treatments aimed at providing distinct signals regarding the proportion of welfare recipients who are disabled. Our analysis encompasses both attitudinal shifts and behavioral responses elicited by these treatments. </p>
 
   </details>  
-  
-  + [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0)
-  + [Registration](https://osf.io/e7r2q)
-
 
 ----
 
