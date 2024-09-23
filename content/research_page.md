@@ -115,3 +115,16 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 
 ----
 
+## Other Publications
+
+- **Does Disability Shape Political Identity?** [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
+  
+- **The American Death Penalty: Progress and Politics**
+*Human Rights Defender*, (2016), 25 (1), 37 [Article](https://www.dropbox.com/scl/fi/d7dgx0j4gemuftzbh9oqa/25HumRtsDefender34.pdf?rlkey=5r4cktaob0tsn9p2ylrgna7st&st=haf1jxqk&dl=0)
+
+----
+
+
+
+
+
