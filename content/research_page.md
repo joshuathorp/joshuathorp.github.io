@@ -78,7 +78,8 @@ I conduct research in public opinion, political psychology, and public policy in
 ----
 
 - **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment** 
-Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner) <br>  [Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf) [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
+Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner) <br>
+[Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf) [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 
   <details>
@@ -94,7 +95,8 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 
 ----
 
-- **Disability Stereotypes and Redistribution in the United States** (with Jac Larner, *in progress*) [Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0) [Registration](https://osf.io/e7r2q)
+- **Disability Stereotypes and Redistribution in the United States** (with Jac Larner, *in progress*) <br>
+[Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0) [Registration](https://osf.io/e7r2q)
 
 
 
