@@ -14,13 +14,13 @@ urlcolor: blue
 ----
 
 #### Research Overview
-> <p style="font-size: 0.8em;">I conduct research in public opinion, political psychology, and public policy in the United States and other advanced democracies. The first component of my research agenda examines the role of *political processes* - such as policy feedback,  experiences of discrimination, or exposure to protest action - in promoting group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States. The second component focuses on the role of *stereotypes and intergroup prejudice* in shaping attitudes toward redistributive and social policies in the United State and other advanded democracies. </p> 
+> <p style="font-size: 0.8em;"> I conduct research in public opinion, political psychology, and public policy in the United States and other advanced democracies. The first component of my research agenda examines the role of *political processes* - such as policy feedback,  experiences of discrimination, or exposure to protest action - in promoting group consciousness and political cohesion within social minority groups. My dissertation project examines these processes in the context of people with disabilities in the United States. The second component focuses on the role of *stereotypes and intergroup prejudice* in shaping attitudes toward redistributive and social policies in the United State and other advanded democracies. </p> 
 
 ----
 
 ## Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-- <p style="font-size: 0.8em;"> **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152) </p> 
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152) 
 
   <details>
   <summary>Abstract</summary>
