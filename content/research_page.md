@@ -39,7 +39,7 @@ I conduct research in public opinion, political psychology, and public policy in
 ----
 
 - **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** <br>
-[Paper available upon request] [Registration](https://osf.io/d96jb)
+[Registration](https://osf.io/d96jb) [Paper available upon request] 
 
   <details>
   <summary>Abstract</summary>
