@@ -10,7 +10,7 @@ urlcolor: blue
 
 --- 
 
-----
+## Publications, Working Papers, and Works in Progress
 
 #### Research Overview
 > <p style="font-size: 0.8em;"> 
