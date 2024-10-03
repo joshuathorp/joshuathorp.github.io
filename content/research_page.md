@@ -10,7 +10,7 @@ urlcolor: blue
 
 --- 
 
-## Publications, Working Papers, and Works in Progress
+### Publications, Working Papers, and Works in Progress
 
 #### Research Overview
 > <p style="font-size: 0.8em;"> 
@@ -21,9 +21,10 @@ I conduct research in public opinion, political psychology, and public policy in
 
 ----
 
-## Political Identity, Group Consciousness, and the Politics of Disability in the United States
+### Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper) [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152) 
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)
+  [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152) 
 
   <details>
   <summary>Abstract</summary>
@@ -35,7 +36,8 @@ I conduct research in public opinion, political psychology, and public policy in
   
 ----
 
-- **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** (Working Paper) [Paper available upon request] [Registration](https://osf.io/d96jb)
+- **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** (Working Paper)
+  [Paper available upon request] [Registration](https://osf.io/d96jb)
 
   
   <details>
@@ -49,7 +51,6 @@ I conduct research in public opinion, political psychology, and public policy in
 
 - **Disability and Political Solidarity: The Case of the COVID-19 Pandemic** (In Progress)
 
-
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> To what extent do public health threats promote political solidarity among members of vulnerable minority groups? People with disabilities (PWD) were at substantially elevated risk of severe illness and death throughout the COVID-19 pandemic. Yet, existing research has not considered how disability status shaped attitudes toward policy interventions designed to curb the spread of the virus (e.g. vaccines, social distancing, masking). Using data from two nationally representative YouGov surveys (N=2000) in the United States, I find that respondents with functional disabilities are not more likely to be vaccinated or support virus-curbing measures than their non-disabled peers. By contrast, among respondents with disabilities, those who consider disability to be an important part of their social identity, and who report a sense of linked fate with PWD are more likely to be vaccinated and more likely to support preventative measures. </p>
@@ -58,10 +59,10 @@ I conduct research in public opinion, political psychology, and public policy in
 
 ----
 
-## Stereotypes, Prejudice, and the Politics of Redistribution
+### Stereotypes, Prejudice, and the Politics of Redistribution
 
-- **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities** 
-*Political Psychology*, (2024), 00, 1–24. (with Jac Larner) 
+- **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities**
+  *Political Psychology*, (2024), 00, 1–24. (with Jac Larner) 
 [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf) [Registration](/ResponsibilityforImpairment_Registration.pdf)
 
 
@@ -118,7 +119,7 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 
 ----
 
-## Other Publications
+### Other Publications
 
 
 - **Does Disability Shape Political Identity?** [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
