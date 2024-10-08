@@ -71,7 +71,7 @@ params:
             - name: CV
               url: https://www.dropbox.com/scl/fi/w3x96fbx4vwocbgz56ii7/JTCV_Sept2024.pdf?rlkey=k9yod4nxmeyfy1ixmbd8oqi4o&st=sjwkvpr0&dl=0
             - name: Job-Market Paper
-              url: /BPP2_Sept2024.pdf
+              url: /JMP_Oct2024.pdf
 
     socialIcons:
         - name: CV
