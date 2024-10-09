@@ -35,7 +35,7 @@ I conduct research in public opinion, political psychology, and public policy in
 
   ##### Figure 5: Marginal effect of Disability ID on Redistributive Policy Support by Party ID
 
-  ![](/BPP2_pid_interactionsfs2_minimal.png)
+    <img src="/BPP2_pid_interactionsfs2_minimal.png" alt="Figure 5" style="width:60%;"/>
 
   </details>
   
