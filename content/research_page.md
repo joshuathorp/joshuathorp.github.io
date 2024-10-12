@@ -27,7 +27,6 @@ I conduct research in public opinion, political psychology, and public policy in
 
 **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)<br>
 [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) | [Supplementary Materials](https://osf.io/4qfks/) | [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
-
 <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> How do social identities become politically salient? People with disabilities (PWD) are a diverse social minority with clear links to politics. However, little is known about how disability might shape political psychology. Conventional wisdom suggests that political cohesion in diverse social groups is a consequence of (1) elite mobilization, and/or (2) intragroup contact. I argue that this conventional wisdom is largely inapplicable to disabled Americans. However, disability may become politically salient via other social processes, including experiences of stigma and discrimination, and processes of policy feedback that link disability to redistributive benefits. I test this theory using data from two original national surveys and the 2024 ANES Pilot Study. I develop an original survey measure for identification with disability - the Disability ID scale - and examine the implications of this identity for political attitudes. I find that Disability ID is strongest among those with more severe and visible impairments, and among those who receive disability welfare and accommodations. Disability ID has important implications for politics, with those higher in Disability ID reporting more ideological liberalism, Democratic partisanship, and support for a range of redistributive policies. Finally, Disability ID is cross-cutting, with the redistributive preferences of conservatives and Republicans converging with those of liberals and Democrats at high levels of Disability ID. </p> 
@@ -35,22 +34,21 @@ I conduct research in public opinion, political psychology, and public policy in
 
   ##### Figure 5: Marginal effect of Disability ID on Redistributive Policy Support by Party ID
 
-    <img src="/BPP2_pid_interactionsfs2_minimal.png" alt="Figure 5" style="width:75%;"/>
+  <img src="/BPP2_pid_interactionsfs2_minimal.png" alt="Figure 5" style="width:75%;"/>
 
-  </details>
+</details>
 
 
   
 ----
 
-- **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** <br>
+**Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** <br>
 [Registration](https://osf.io/d96jb) | [Paper available upon request] 
-
-  <details>
+<details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> What drives support for protest action in diverse social groups, where group members may have different or competing political interests? This paper addresses this question by examining the attitudes of disabled Americans toward disruptive disability rights protests. While such protests are framed as advancing the interests of all disabled people - no matter their specific impairment - they frequently include policy demands that benefit only a subset of disabled people. Disability rights protests thus provide a novel context in which to examine the role of expressive (shared identity) vs. instrumental (personal benefit from policy change) motivations in shaping attitudes toward protest action. In a survey experiment (N=1016) of American adults with disabilities, I find that identification and a sense of linked fate with disabled people predict support for protest action and a willingness to participate, even when such protests are highly disruptive. By contrast, sharing the specific impairment of the protesters (mobility impairment) does not predict elevated support. More broadly, these findings provide novel empirical evidence of group consciousness among large shares of disabled Americans, and show that disabled people are mobilized by exposure to disability rights protests.</p>
 
-  </details>
+</details>
 
 
 ----
