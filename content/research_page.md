@@ -25,7 +25,25 @@ I conduct research in public opinion, political psychology, and public policy in
 
 ### Political Identity, Group Consciousness, and the Politics of Disability in the United States
 
-- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)<br> 
+- **Americans with Disabilities and the Identity-to-Politics Link** (Job Market Paper)<br>
+
+<div style="margin-top: 10px;">
+  <a href="https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0" target="_blank" style="text-decoration:none;">
+    <button style="background-color:#ccc; color:black; padding:10px 20px; border:none; border-radius:5px; cursor:pointer; display:inline-block; margin-right:10px;"
+      onmouseover="this.style.backgroundColor='#ADD8E6'"
+      onmouseout="this.style.backgroundColor='#ccc'">
+      Read the Paper
+    </button>
+  </a>
+  
+  <a href="https://osf.io/4qfks/" target="_blank" style="text-decoration:none;">
+    <button style="background-color:#ccc; color:black; padding:10px 20px; border:none; border-radius:5px; cursor:pointer; display:inline-block; margin-right:10px;"
+      onmouseover="this.style.backgroundColor='#ADD8E6'"
+      onmouseout="this.style.backgroundColor='#ccc'">
+      View Registration
+    </button>
+  </a>
+
 [Paper](https://www.dropbox.com/scl/fi/2prq1resaufzbrl68si0y/BPP2_Sept2024.pdf?rlkey=sjzuw0dctya1tgiwie9vur4fs&e=1&dl=0) [Supplementary Materials](https://osf.io/4qfks/) [Center for Political Studies Blog](https://cpsblog.isr.umich.edu/?p=3152)
 
   <details>
