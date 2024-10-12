@@ -44,7 +44,7 @@ I conduct research in public opinion, political psychology, and public policy in
 ----
 
 - **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** <br>
-[Registration](https://osf.io/d96jb) [Paper available upon request] 
+[Registration](https://osf.io/d96jb) | [Paper available upon request] 
 
   <details>
   <summary>Abstract</summary>
@@ -69,7 +69,7 @@ I conduct research in public opinion, political psychology, and public policy in
 
 - **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities**
 *Political Psychology*, (2024), 00, 1–24. With Jac Larner. <br> 
-[Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf) [Registration](/ResponsibilityforImpairment_Registration.pdf)
+[Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf) | [Registration](/ResponsibilityforImpairment_Registration.pdf)
   <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> When do people support government assistance for people with disabilities? Disability welfare programs account for large shares of national welfare budgets, but little is known about public attitudes toward disabled welfare claimants. Drawing on psychological research in stereotype content, we argue that attitudes toward welfare for people with dis- abilities are likely to be more conditional than     previously acknowledged. In two nationally representative, preregistered survey experiments in Wales (N = 3393) and Scotland (N = 1707), we ask respondents to evaluate the deservingness of a fictitious disabled claimant to government assistance. We manipulate the claimant's outgroup status and the manner in which they acquired their impairment. We find that disabled claimants perceived as even somewhat responsible for their impairments are considered substantially less deserving of government assistance than those perceived not responsible, even when their needs for assistance are identical. Contrary to expectations, we find relatively modest and inconsistent outgroup penalties in perceived deservingness. Finally, we find large heterogeneous treatment effects among respondents holding to more authoritarian social values. These results challenge conventional wisdom regarding the universality of support for disability welfare and help explain why voters may not be inclined to punish politicians who propose cuts to programs for even stereotypically high-deserving groups. </p>
@@ -84,7 +84,7 @@ I conduct research in public opinion, political psychology, and public policy in
 
 - **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment** 
 Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner) <br>
-[Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf) [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
+[Paper](/ACCEPTED_JLJT2024_JEPS_COVID19.pdf) | [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
 
   <details>
@@ -101,8 +101,7 @@ Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner)
 ----
 
 - **Disability Stereotypes and Redistribution in the United States** (with Jac Larner, *in progress*) <br>
-[Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0) [Registration](https://osf.io/e7r2q)
-
+[Pre-Analysis Plan](https://www.dropbox.com/scl/fi/pnzgeoehsscme4iegwn4o/Disability_Stereotypes_PAP.pdfrlkey=d2yo7hef1rkbgcr2tha3ybhto&dl=0) | [Registration](https://osf.io/e7r2q)
 
 
   <details>
