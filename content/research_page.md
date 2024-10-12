@@ -42,24 +42,24 @@ I conduct research in public opinion, political psychology, and public policy in
   
 ----
 
-**Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** <br>
-[Registration](https://osf.io/d96jb) | [Paper available upon request] 
-<details>
+- **Cohesion through Contention: Disability, Identity, and Support for Disruptive Protest Action** <br>
+  [Registration](https://osf.io/d96jb) | [Paper available upon request] 
+  <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> What drives support for protest action in diverse social groups, where group members may have different or competing political interests? This paper addresses this question by examining the attitudes of disabled Americans toward disruptive disability rights protests. While such protests are framed as advancing the interests of all disabled people - no matter their specific impairment - they frequently include policy demands that benefit only a subset of disabled people. Disability rights protests thus provide a novel context in which to examine the role of expressive (shared identity) vs. instrumental (personal benefit from policy change) motivations in shaping attitudes toward protest action. In a survey experiment (N=1016) of American adults with disabilities, I find that identification and a sense of linked fate with disabled people predict support for protest action and a willingness to participate, even when such protests are highly disruptive. By contrast, sharing the specific impairment of the protesters (mobility impairment) does not predict elevated support. More broadly, these findings provide novel empirical evidence of group consciousness among large shares of disabled Americans, and show that disabled people are mobilized by exposure to disability rights protests.</p>
 
-</details>
+  </details>
 
 
 ----
 
-**Disability and Political Solidarity: The Case of the COVID-19 Pandemic** (In Progress)
+- **Disability and Political Solidarity: The Case of the COVID-19 Pandemic** (In Progress)
 
-<details>
+  <details>
   <summary>Abstract</summary>
   <p style="font-size: 0.9em;"> To what extent do public health threats promote political solidarity among members of vulnerable minority groups? People with disabilities (PWD) were at substantially elevated risk of severe illness and death throughout the COVID-19 pandemic. Yet, existing research has not considered how disability status shaped attitudes toward policy interventions designed to curb the spread of the virus (e.g. vaccines, social distancing, masking). Using data from two nationally representative YouGov surveys (N=2000) in the United States, I find that respondents with functional disabilities are not more likely to be vaccinated or support virus-curbing measures than their non-disabled peers. By contrast, among respondents with disabilities, those who consider disability to be an important part of their social identity, and who report a sense of linked fate with PWD are more likely to be vaccinated and more likely to support preventative measures. </p>
 
-</details>
+  </details>
 
 ----
 
