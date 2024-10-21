@@ -12,6 +12,7 @@ urlcolor: blue
 
 #### Downloads
   + [Draft Syllabus: Identity Politics](https://www.dropbox.com/scl/fi/gmv4ymhtt45jzktcq070y/DraftSyllabus_IdentityPolitics.pdf?rlkey=di89hblysdz7il9xm33n9ad9t&st=xdfgy8fx&dl=0)
+  + [Draft Syllabus: The Politics of Disability](https://www.dropbox.com/scl/fi/srq5eavhn4ehu6oxsvpkl/DraftSyllabus_PoliticsofDisability.pdf?rlkey=ldztukk9x2hi5foxtn7t74oj5&st=h59s3ztg&dl=0)
   + [Teaching Evaluations (Request Access)](https://www.dropbox.com/scl/fi/i63zyr5dtw6f4b6qjrq34/JoshuaThorp_TeachingEvals2024.pdf?rlkey=6wyg04v25f8mz4o0rmn2f1jl8&st=p71bbmcf&dl=0)
     
 ----
