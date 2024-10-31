@@ -82,7 +82,7 @@ I conduct research in public opinion, political psychology, and public policy in
 ----
 
 - **Vulnerability Appeals in the COVID-19 Pandemic: Insights from a National Survey Experiment** 
-  Forthcoming at *The Journal of Experimental Political Science* (with Jac Larner) <br>
+  *The Journal of Experimental Political Science* (2024), 00, 1-16. (with Jac Larner) <br>
   [Paper](/LarnerThorp2024_JEPS_VulnerabilityAppeals.pdf) | [Registration](/JLJT_GroupVulnerabilityCOVID19_Preregistration.pdf)
 
   <details>
