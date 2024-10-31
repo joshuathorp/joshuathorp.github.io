@@ -67,7 +67,7 @@ I conduct research in public opinion, political psychology, and public policy in
 
 - **Responsibility for Impairment Shapes the Perceived Deservingness of Welfare Recipients with Disabilities**
   *Political Psychology*, (2024), 00, 1–24. With Jac Larner. <br> 
-  [Paper](/ThorpLarner2024_PoliticalPsych_ResponsibilityforImpairment.pdf) | [Registration](/ResponsibilityforImpairment_Registration.pdf)
+  [Paper](/ThorpLarner2024_PolPsych.pdf) | [Registration](/ResponsibilityforImpairment_Registration.pdf)
 
   <details>
   <summary>Abstract</summary>
