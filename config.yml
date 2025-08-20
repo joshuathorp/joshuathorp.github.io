@@ -11,8 +11,8 @@ taxonomies:
 
 menu:
     main:
-        - name: Dissertation
-          url: /dissertation/
+        - name: Book Project
+          url: /bodypolitic/
           weight: 1
         - name: Research
           url: /research/
@@ -59,16 +59,14 @@ params:
           imageHeight: 200
           imageTitle: JT
           buttons:
-            - name: Dissertation
-              url: /dissertation/
+            - name: Book Project
+              url: /bodypolitic/
             - name: Research
               url: /research/
             - name: Teaching
               url: /teaching/
             - name: CV
               url: https://www.dropbox.com/scl/fi/b7c4zsxu82f3jgdqrrwwe/JTCV_Nov24.pdf?rlkey=fobryk08j9h1jxgpz3vkzzxyo&st=uwvpsp5q&dl=0
-            - name: Job-Market Paper
-              url: /JMP_Oct2024.pdf
 
     socialIcons:
         - name: CV
