@@ -1,6 +1,6 @@
 ---
-title: "Dissertation and Book Project"
-url: /dissertation
+title: "Book Project"
+url: /bodypolitic
 description: "Body Politic: Disability and Political Cohesion"
 image: "/Bob-Kafka-Georgia.jpg"
 cover:
