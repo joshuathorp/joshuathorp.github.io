@@ -6,4 +6,4 @@ url: /cv
 
 #### Downloads
 
-+ [CV](https://www.dropbox.com/scl/fi/zbeck2l1uwqighmo3nz2d/JTCV_Aug2024.pdf?rlkey=ioe5dndhyzffa3gbd6yjm22ee&dl=0)
++ [CV](https://www.dropbox.com/scl/fi/n72gapbvxx04uooczhnou/JTCV_Aug2025.pdf?rlkey=72ya9zdkuqexfmldfg81tq4jk&st=i1sld2qv&dl=0)
