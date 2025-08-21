@@ -66,11 +66,11 @@ params:
             - name: Teaching
               url: /teaching/
             - name: CV
-              url: https://www.dropbox.com/scl/fi/b7c4zsxu82f3jgdqrrwwe/JTCV_Nov24.pdf?rlkey=fobryk08j9h1jxgpz3vkzzxyo&st=uwvpsp5q&dl=0
+              url: https://www.dropbox.com/scl/fi/n72gapbvxx04uooczhnou/JTCV_Aug2025.pdf?rlkey=72ya9zdkuqexfmldfg81tq4jk&st=p3y79zwr&dl=0
 
     socialIcons:
         - name: CV
-          url: https://www.dropbox.com/scl/fi/b7c4zsxu82f3jgdqrrwwe/JTCV_Nov24.pdf?rlkey=fobryk08j9h1jxgpz3vkzzxyo&st=uwvpsp5q&dl=0
+          url: https://www.dropbox.com/scl/fi/n72gapbvxx04uooczhnou/JTCV_Aug2025.pdf?rlkey=72ya9zdkuqexfmldfg81tq4jk&st=p3y79zwr&dl=0
         - name: Email
           url: /mailto:jrthorp@umich.edu
         - name: Google Scholar
