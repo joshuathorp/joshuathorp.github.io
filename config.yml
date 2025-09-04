@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "PhD Candidate in Political Science (American Politics) at the University of Michigan"
+    description: "Assistant Professor of Political Science (Public Opinion) at the University of Arkansas"
     author: Joshua R. Thorp
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,7 +52,7 @@ params:
           enabled: true
           title: <span style="color:#011F5B">Joshua R. Thorp</span>
           subtitle: 
-              I am an incoming Assistant Professor of Public Opinion (Fall 2025) at the University of Arkansas, Fayetteville. My research focuses on public opinion and political psychology in the United States and other advanced democracies. My dissertation and book project explores the role of political processes - such as policy feedback, experiences of stigma and discrimination, and exposure to protest action - in the shaping the political identities of people with disabilities. <br><br>
+              I am an Assistant Professor of Political Science (Public Opinion) at the University of Arkansas, Fayetteville. My research focuses on public opinion and political psychology in the United States and other advanced democracies. My dissertation and book project explores the role of political processes - such as policy feedback, experiences of stigma and discrimination, and exposure to protest action - in the shaping the political identities of people with disabilities. <br><br>
               I received my Ph.D. from the University of Michigan in 2025. My research has been published in peer-reviewed journals including <em>Political Psychology</em> and the <em>Journal of Experimental Political Science</em>, and is generously supported by the British Academy/Leverhulme Trust, the Center for Political Studies at the University of Michigan, the Rapoport Family Foundation, and Time-Sharing Experiments in the Social Sciences (TESS).
           imageUrl: "jiaWOLZR_400x400.jpg"
           imageWidth: 200
@@ -72,7 +72,7 @@ params:
         - name: CV
           url: https://www.dropbox.com/scl/fi/n72gapbvxx04uooczhnou/JTCV_Aug2025.pdf?rlkey=72ya9zdkuqexfmldfg81tq4jk&st=p3y79zwr&dl=0
         - name: Email
-          url: /mailto:jrthorp@umich.edu
+          url: /mailto:jthorp@uark.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=XvlxqvkAAAAJ&hl=en
         - name: GitHub
