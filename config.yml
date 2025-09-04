@@ -66,11 +66,11 @@ params:
             - name: Teaching
               url: /teaching/
             - name: CV
-              url: https://www.dropbox.com/scl/fi/n72gapbvxx04uooczhnou/JTCV_Aug2025.pdf?rlkey=72ya9zdkuqexfmldfg81tq4jk&st=p3y79zwr&dl=0
+              url: https://uark.box.com/s/piblfbwylq0i7hbohafdokzozloq0els
 
     socialIcons:
         - name: CV
-          url: https://www.dropbox.com/scl/fi/n72gapbvxx04uooczhnou/JTCV_Aug2025.pdf?rlkey=72ya9zdkuqexfmldfg81tq4jk&st=p3y79zwr&dl=0
+          url: https://uark.box.com/s/piblfbwylq0i7hbohafdokzozloq0els
         - name: Email
           url: /mailto:jthorp@uark.edu
         - name: Google Scholar
