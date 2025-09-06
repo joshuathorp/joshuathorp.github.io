@@ -1,5 +1,5 @@
 ---
-title: "Book Project"
+title: "Body Politic: Disability and Political Cohesion"
 url: /bodypolitic
 description: "Body Politic: Disability and Political Cohesion"
 image: "/Bob-Kafka-Georgia.jpg"
@@ -9,7 +9,7 @@ cover:
     
 --- 
 
-### Body Politic: Disability and Political Cohesion
+### Dissertation and Book Project
 
 ----
 
