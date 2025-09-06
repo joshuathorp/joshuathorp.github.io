@@ -94,7 +94,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Joshua R. Thorp"
-      icon: /razorback.ico
+      icon: /favicon.ico
       iconHeight: 18
 
 markup:
