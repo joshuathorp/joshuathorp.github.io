@@ -81,6 +81,8 @@ params:
           url: https://X.com/JoshuaThorp
         - name: bluesky
           url: https://bsky.app/profile/joshuathorp.bsky.social
+        - name: razorback
+          url: https://political-science.uark.edu/directory/index/uid/jthorp/name/Joshua+Thorp/
 
     assets:
         disableHLJS: true
